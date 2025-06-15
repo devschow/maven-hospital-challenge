@@ -102,7 +102,7 @@ maven-hospital-challenge/
 │ ├── Financial overview.jpg
 │ ├── Patient Information.jpg
 │ └── Data_model.jpg
-├── dashboard.pbix # (optional - exclude if restricted)
+├── dashboard.pbix 
 ├── README.md
 ```
 
